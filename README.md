@@ -1,1 +1,3 @@
 # 0005_RTC_Module_DS1307
+
+You are seeing a large number of widely used RTC modules in electronic development kits. More information coming soon...
